@@ -43,7 +43,7 @@ git clone https://github.com/yourusername/chicken-blaster.git
 cd chicken-blaster
 
 # Run the game (example command, depends on language)
-python main.py
+
 ```
 
 ## ⭐Give the repo a star if you enjoyed it!
