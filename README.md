@@ -18,8 +18,8 @@ Inspired by the classic *Chicken Invaders*, this is a beginner-friendly version 
 
 ## 🧠 Built With
 
-## C++
-## OpenGL
+- **C++**
+- **OpenGL**
 - Lots of ☕ and late-night debugging 😅
 
 ---
