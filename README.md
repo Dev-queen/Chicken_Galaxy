@@ -26,7 +26,7 @@ Inspired by the classic *Chicken Invaders*, this is a beginner-friendly version 
 
 ## 📷 Gameplay Preview
 
-(./Game.gif)
+!(./Game.gif)
 
 > 
 > 
