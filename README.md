@@ -26,12 +26,12 @@ Inspired by the classic *Chicken Invaders*, this is a beginner-friendly version 
 
 ## 📷 Gameplay Preview
 
-!(./Game.gif)
+<img src="Game.gif" alt="Game Preview" width="500"/>
 
-> 
-> 
+
 
 ---
+
 
 ## 🔧 How to Run the Game
 
