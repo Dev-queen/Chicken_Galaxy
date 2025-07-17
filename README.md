@@ -44,7 +44,8 @@ cd chicken-blaster
 
 # Run the game (example command, depends on language)
 python main.py
+```
 
+## ⭐Give the repo a star if you enjoyed it!
 
-# ⭐ Give the repo a star if you enjoyed it!
 Thanks for stopping by — now go blast some chickens! 🚀🐔🎯
