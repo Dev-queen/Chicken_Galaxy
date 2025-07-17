@@ -45,4 +45,6 @@ cd chicken-blaster
 # Run the game (example command, depends on language)
 python main.py
 
-⭐ If you like this project, don’t forget to give it a star!
+
+# ⭐ Give the repo a star if you enjoyed it!
+Thanks for stopping by — now go blast some chickens! 🚀🐔🎯
