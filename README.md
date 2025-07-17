@@ -26,10 +26,10 @@ Inspired by the classic *Chicken Invaders*, this is a beginner-friendly version 
 
 ## 📷 Gameplay Preview
 
-![Chicken Blaster Demo](assets/chicken-blaster-demo.gif)
+(./Game.gif)
 
-> *GIF preview of the game goes here*  
-> *(You can create a GIF in Canva or screen-record and convert it to a GIF!)*
+> 
+> 
 
 ---
 
