@@ -37,12 +37,10 @@ Inspired by the classic *Chicken Invaders*, this is a beginner-friendly version 
 
 ```bash
 # Clone this repo
-git clone https://github.com/yourusername/chicken-blaster.git
+git clone https://github.com/Dev-queen/Chicken_Galaxy.git
 
 # Move into the project folder
 cd chicken-blaster
-
-# Run the game (example command, depends on language)
 
 ```
 
